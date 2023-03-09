@@ -1,0 +1,26 @@
+body {
+    font-family: "comic sans";
+    background-color: pink;
+    text-align: center;
+}
+
+img {
+    width: 350px;
+border: 40px groove lightblue;
+margin: 10px;
+    border-right: 40px groove lightblue;
+border-bottom: 40px groove lightblue;
+
+
+}
+h4 {
+font-family: "Comic Sans";
+font-size: 40px;
+text-align: center;
+    color: white;}
+h1
+{
+font-family: "Comic Sans";
+font-size: 40px;
+text-align: center;
+    color: black;}
